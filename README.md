@@ -1,1 +1,3 @@
 # Task3-IoT
+In this project there are several files: HTML, PHP, SQL ...
+The goal of this project is to design a web page (using action GET) that allows the user to enter an integer number and then store it in a table in the databases.
